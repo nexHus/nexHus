@@ -1,50 +1,93 @@
-# 👋 Hi, I'm Muhammad Husnain (NexHus)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1e293b,50:2b4c7e,100:2a7f86&section=header&text=Muhammad%20Husnain&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=NexHus&descSize=16&descAlignY=58&descColor=cfe3f1" alt="header"/>
 
-### Software Engineer & AI/ML Developer
-🚀 Passionate about building intelligent applications, full-stack systems, and robust infrastructure. Currently pursuing a BS in Computer Science at UET Lahore.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **AI / ML** | Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Databases |
-| **Frontend** | React.js, Next.js, Electron, HTML5/CSS3 |
-| **Backend & DB** | Node.js, Express.js, MongoDB, Advanced DBMS |
-| **DevOps & Infra** | Docker, Portainer, Ubuntu Server, Home Lab Management |
-| **Tools & OS** | Git, GitHub, Kali Linux, Windows, Postman |
-
----
-
-### 🚀 Featured Projects
-
-*   **PaperGenie**  
-    *An AI-powered platform utilizing Retrieval-Augmented Generation (RAG) and LLMs to revolutionize how users interact with and extract insights from documents.*
-*   **CvTracker**  
-    *A streamlined full-stack application designed to track job applications, optimize resumes, and manage the career pipeline efficiently.*
-*   **Self-Hosted Home Lab**  
-    *An Ubuntu-server-based infrastructure powered by Docker and Portainer, managing local services like Jellyfin and testing network deployments.*
-
----
-
-### 👥 Leadership & Community Involvement
-
-*   **Co-Lead, Public Relations** @ Google Developers Group on Campus (GDGoC)
-*   **Co-Director, Event Management** @ Association for Computing Machinery (ACM)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexHus&show_icons=true&theme=radical" alt="NexHus's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexHus&theme=radical" alt="NexHus's GitHub Streak" height="180px"/>
+<p align="center">
+  <a href="https://github.com/NexHus">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=4C9BE8&center=true&vCenter=true&width=640&height=40&lines=Software+Engineer+%7C+AI%2FML+Developer;Building+RAG+apps+with+local+LLMs;Shipping+full-stack+products+to+real+users;BS+Computer+Science+%40+UET+Lahore" alt="Typing animation"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="mailto:husnain.official.35220261@gmail.com"><img src="https://img.shields.io/badge/Email-4C9BE8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/NexHus"><img src="https://img.shields.io/badge/GitHub-2DB8A5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NexHus&style=for-the-badge&color=8B7CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-### 📫 Connect with Me
+<p align="center"><sub>Lahore, Pakistan</sub></p>
 
-*   📧 **Email:** [husnain.official.35220261@gmail.com](mailto:husnain.official.35220261@gmail.com)
-*   📍 **Location:** Lahore, Pakistan
+<br/>
+
+I build intelligent applications, full-stack products and the infrastructure that runs them, somewhere between **AI/ML**, **web platforms** and **self-hosted systems**.
+
+<br/>
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Real Manager</h3>
+      <p>Full-stack platform for real estate agents. <b>Live in 2 agencies with 10+ users.</b> Includes <b>Real Inventory</b>, a sub-project for inventory handling.</p>
+      <img src="https://img.shields.io/badge/Next.js-4C9BE8?style=flat-square" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Supabase-4C9BE8?style=flat-square" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/SQL-4C9BE8?style=flat-square" alt="SQL"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/nexHus/paperGen">PaperGenie</a></h3>
+      <p>AI app for teachers. Upload books to a workspace, choose the core settings, and print ready-made quizzes. Runs on a local LLM.</p>
+      <img src="https://img.shields.io/badge/Next.js-8B7CF6?style=flat-square" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/ChromaDB-8B7CF6?style=flat-square" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/Llama-8B7CF6?style=flat-square" alt="Llama"/>
+      <img src="https://img.shields.io/badge/RAG-8B7CF6?style=flat-square" alt="RAG"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Job &amp; Listing Scrapers</h3>
+      <p>Automated scrapers that turn job posts and listings into clean, structured data.</p>
+      <img src="https://img.shields.io/badge/Python-2DB8A5?style=flat-square" alt="Python"/>
+      <img src="https://img.shields.io/badge/Selenium-2DB8A5?style=flat-square" alt="Selenium"/>
+      <img src="https://img.shields.io/badge/BeautifulSoup-2DB8A5?style=flat-square" alt="BeautifulSoup"/>
+    </td>
+  </tr>
+</table>
+
+**Also:** CvTracker (job application and resume tracker) · Home Lab (Ubuntu Server, Docker, Portainer, Jellyfin)
+
+<br/>
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase,postgres,python,electron,docker,ubuntu,linux,git,github,postman&theme=dark" alt="Tech stack"/>
+</p>
+
+<sub><b>AI/ML:</b> LLMs · RAG · Vector Databases (ChromaDB) · Local models (Llama)</sub>
+
+<br/>
+
+## Community
+
+- Co-Lead, Public Relations · **Google Developers Group on Campus (GDGoC)**
+- Co-Director, Event Management · **Association for Computing Machinery (ACM)**
+
+<br/>
+
+## Activity
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NexHus&show_icons=true&hide_border=true&theme=transparent&title_color=4C9BE8&text_color=8B949E&icon_color=2DB8A5&bg_color=00000000" alt="GitHub stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexHus&layout=compact&hide_border=true&theme=transparent&title_color=4C9BE8&text_color=8B949E&bg_color=00000000" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NexHus&hide_border=true&background=00000000&stroke=4C9BE855&ring=4C9BE8&fire=E8A24C&currStreakNum=4C9BE8&sideNums=8B949E&currStreakLabel=2DB8A5&sideLabels=8B949E&dates=8B949E" alt="GitHub streak"/>
+</p>
+
+<!-- Animated snake: needs the workflow in .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NexHus/NexHus/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NexHus/NexHus/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/NexHus/NexHus/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2a7f86,50:2b4c7e,100:1e293b&section=footer&reversal=true" alt="footer"/>
