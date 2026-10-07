@@ -78,7 +78,7 @@ I build intelligent applications, full-stack products and the infrastructure tha
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NexHus&hide_border=true&background=00000000&stroke=4C9BE855&ring=4C9BE8&fire=E8A24C&currStreakNum=4C9BE8&sideNums=8B949E&currStreakLabel=2DB8A5&sideLabels=8B949E&dates=8B949E" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=NexHus&hide_border=true&background=00000000&stroke=4C9BE855&ring=4C9BE8&fire=E8A24C&currStreakNum=4C9BE8&sideNums=8B949E&currStreakLabel=2DB8A5&sideLabels=8B949E&dates=8B949E&refresh=1" alt="GitHub streak"/>
 </p>
 
 <!-- Animated snake: needs the workflow in .github/workflows/snake.yml -->
