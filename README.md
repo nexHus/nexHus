@@ -25,7 +25,7 @@ I build intelligent applications, full-stack products and the infrastructure tha
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3<a href="https://github.com/nexHus/faseeh-estate-manager">Real Manager</h3>
+      <h3><a href="https://github.com/nexHus/faseeh-estate-manager">Real Manager</h3>
       <p>Full-stack platform for real estate agents. <b>Live in 2 agencies with 10+ users.</b> Includes <b>Real Inventory</b>, a sub-project for inventory handling.</p>
       <img src="https://img.shields.io/badge/Next.js-4C9BE8?style=flat-square" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Supabase-4C9BE8?style=flat-square" alt="Supabase"/>
