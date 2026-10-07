@@ -1,8 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1e293b,50:2b4c7e,100:2a7f86&section=header&text=Muhammad%20Husnain&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=NexHus&descSize=16&descAlignY=58&descColor=cfe3f1" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1e293b,50:2b4c7e,100:2a7f86&section=header&animation=fadeIn" alt="header"/>
+
+<!-- Name swaps between "Muhammad Husnain" and "NexHus" -->
+<h1 align="center">
+  <a href="https://github.com/NexHus">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1800&pause=2600&color=4C9BE8&center=true&vCenter=true&width=640&height=70&lines=Muhammad+Husnain;NexHus" alt="Muhammad Husnain / NexHus"/>
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://github.com/NexHus">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=4C9BE8&center=true&vCenter=true&width=640&height=40&lines=Software+Engineer+%7C+AI%2FML+Developer;Building+RAG+apps+with+local+LLMs;Shipping+full-stack+products+to+real+users;BS+Computer+Science+%40+UET+Lahore" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2700&pause=1300&color=2DB8A5&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=130&lines=%E2%96%B8+Software+Engineer+%7C+AI%2FML+Developer;%E2%96%B8+Building+RAG+apps+with+local+LLMs;%E2%96%B8+Shipping+full-stack+products+to+real+users;%E2%96%B8+BS+Computer+Science+%40+UET+Lahore" alt="Typing animation"/>
   </a>
 </p>
 
@@ -25,7 +32,7 @@ I build intelligent applications, full-stack products and the infrastructure tha
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/nexHus/faseeh-estate-manager">Real Manager</h3>
+      <h3><a href="https://github.com/nexHus/faseeh-estate-manager">Real Manager</a></h3>
       <p>Full-stack platform for real estate agents. <b>Live in 2 agencies with 10+ users.</b> Includes <b>Real Inventory</b>, a sub-project for inventory handling.</p>
       <img src="https://img.shields.io/badge/Next.js-4C9BE8?style=flat-square" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Supabase-4C9BE8?style=flat-square" alt="Supabase"/>
@@ -67,7 +74,7 @@ I build intelligent applications, full-stack products and the infrastructure tha
 
 - Co-Lead, Public Relations · **Google Developers Group on Campus (GDGoC)**
 - Director, Event Management · **Association for Computing Machinery (ACM)**
-- Core, Event Management · **Amazone Wev Services (AWS)**
+- Core, Event Management · **Amazon Web Services (AWS)**
 
 <br/>
 
